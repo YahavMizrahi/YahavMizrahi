@@ -12,7 +12,7 @@
   
   [![LinkedIn](https://img.shields.io/twitter/url?color=ffffff&label=%20Yahav%20Mizrahi&logo=linkedin&logoColor=ffffff&style=plastic&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyahav-mizrahi%2F)](https://www.linkedin.com/in/yahav-mizrahi/)
   
-<img align='right' src="https://i.ibb.co/0Z5JWnp/computer.png" height="350px">  
+<img align='right' src="https://i.ibb.co/0Z5JWnp/computer.png" height="300px">  
 
 
 ## Programming language & Technologies 💻
