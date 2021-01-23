@@ -15,7 +15,7 @@
 <img align='right' src="https://i.ibb.co/0Z5JWnp/computer.png" height="350px">  
 
 
-## Languages and Technologies 💻
+## Programming language & Technologies 💻
 
 ### These are some of the languages and technologies that I've used in the past and that I am currenly using :
 
