@@ -1,9 +1,9 @@
 <h1> Hi there, I'm Yahav 👋</h1>
 
 
-  <img align='left' src="https://i.ibb.co/10tKkpD/avt-removebg-preview-2.png" width="200px">  
+  <img align='left' src="https://i.ibb.co/10tKkpD/avt-removebg-preview-2.png" width="150px">  
   <h3 >Software Engineer at <a href="https://www.sapiens.com/">@Sapiens</a>; Love coding 💻, soccer ⚽ and swimming 🏊</h3>
-    <h3 align="left">Connect with me:</h3>
+    <h3 align="left"> 📫 Connect with me:</h3>
 
 
   [![Twitter](https://img.shields.io/twitter/url?color=358EF3&label=%20Follow%20%40YahavMizrahi&logo=twitter&logoColor=358EF3&style=plastic&url=https%3A%2F%2Ftwitter.com%2FYahavMizrahi)](https://twitter.com/YahavMizrahi)
@@ -11,21 +11,11 @@
   [![Gmail](https://img.shields.io/twitter/url?color=red&label=yahavmizrahi91%40gmail.com&logo=gmail&logoColor=FF0000&style=plastic&url=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox)](mailto:yahavmizrahi91@gmail.com)
   
   [![LinkedIn](https://img.shields.io/twitter/url?color=ffffff&label=%20Yahav%20Mizrahi&logo=linkedin&logoColor=ffffff&style=plastic&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyahav-mizrahi%2F)](https://www.linkedin.com/in/yahav-mizrahi/)
+  
+<img align='right' src="https://i.ibb.co/0Z5JWnp/computer.png" height="350px">  
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-## Languages and Technologies
+## Languages and Technologies 💻
 
 ### Hese are some of the languages and technologies that I've used in the past and that I am currenly using :
 
