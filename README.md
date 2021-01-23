@@ -12,10 +12,10 @@
   
   [![LinkedIn](https://img.shields.io/twitter/url?color=ffffff&label=%20Yahav%20Mizrahi&logo=linkedin&logoColor=ffffff&style=plastic&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyahav-mizrahi%2F)](https://www.linkedin.com/in/yahav-mizrahi/)
   
-<img align='right' src="https://i.ibb.co/0Z5JWnp/computer.png" height="300px">  
+<img align='right' src="https://i.ibb.co/0Z5JWnp/computer.png" height="280px">  
 
 
-## Programming language & Technologies 💻
+## 💻 Programming language & Technologies 
 
 ### These are some of the languages and technologies that I've used in the past and that I am currenly using :
 
