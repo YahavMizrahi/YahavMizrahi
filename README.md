@@ -1,7 +1,7 @@
 <h1> Hi there, I'm Yahav 👋</h1>
 
 
-  <img align='left' src="https://i.ibb.co/10tKkpD/avt-removebg-preview-2.png" width="150px">  
+  <img align='left' src="https://i.ibb.co/10tKkpD/avt-removebg-preview-2.png" height="220px">  
   <h3 >Software Engineer at <a href="https://www.sapiens.com/">@Sapiens</a>; Love coding 💻, soccer ⚽ and swimming 🏊</h3>
     <h3 align="left"> 📫 Connect with me:</h3>
 
