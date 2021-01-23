@@ -2,6 +2,13 @@
 <h3 align="center">Software Engineer at <a href="https://www.sapiens.com/">@Sapiens</a>; Loves coding 💻, soccer ⚽ and swimming 🏊</h3>
 
 
+  <img align='left' src="https://i.ibb.co/10tKkpD/avt-removebg-preview-2.png" width="230">
+
+  [![Twitter](https://img.shields.io/twitter/url?color=358EF3&label=%20Follow%20%40YahavMizrahi&logo=twitter&logoColor=358EF3&style=plastic&url=https%3A%2F%2Ftwitter.com%2FYahavMizrahi)](https://twitter.com/YahavMizrahi)
+  <!-- <img alt="Twitter @YahavMizrahi" src="https://img.shields.io/twitter/url?color=358EF3&label=%20Follow%20%40YahavMizrahi&logo=twitter&logoColor=358EF3&style=plastic&url=https%3A%2F%2Ftwitter.com%2FYahavMizrahi"> -->
+
+  [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yahavmizrahi91@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahav-mizrahi/)
 
 
 <!-- <h3>About Me</h3> -->
