@@ -5,12 +5,11 @@
   <h3 >Software Engineer at <a href="https://www.sapiens.com/">@Sapiens</a>; Love coding 💻, soccer ⚽ and swimming 🏊</h3>
     <h3 align="left"> 📫 Connect with me:</h3>
 
-<div align="center">  
-  [![Twitter](https://img.shields.io/twitter/url?color=358EF3&label=%20Follow%20%40YahavMizrahi&logo=twitter&logoColor=358EF3&style=plastic&url=https%3A%2F%2Ftwitter.com%2FYahavMizrahi)](https://twitter.com/YahavMizrahi)
+[![Twitter](https://img.shields.io/twitter/url?color=358EF3&label=%20Follow%20%40YahavMizrahi&logo=twitter&logoColor=358EF3&style=plastic&url=https%3A%2F%2Ftwitter.com%2FYahavMizrahi)](https://twitter.com/YahavMizrahi)
   
-  [![Gmail](https://img.shields.io/twitter/url?color=red&label=yahavmizrahi91%40gmail.com&logo=gmail&logoColor=FF0000&style=plastic&url=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox)](mailto:yahavmizrahi91@gmail.com)
+[![Gmail](https://img.shields.io/twitter/url?color=red&label=yahavmizrahi91%40gmail.com&logo=gmail&logoColor=FF0000&style=plastic&url=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F%23inbox)](mailto:yahavmizrahi91@gmail.com)
   
-  [![LinkedIn](https://img.shields.io/twitter/url?color=ffffff&label=%20Yahav%20Mizrahi&logo=linkedin&logoColor=ffffff&style=plastic&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyahav-mizrahi%2F)](https://www.linkedin.com/in/yahav-mizrahi/)</div>
+[![LinkedIn](https://img.shields.io/twitter/url?color=ffffff&label=%20Yahav%20Mizrahi&logo=linkedin&logoColor=ffffff&style=plastic&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyahav-mizrahi%2F)](https://www.linkedin.com/in/yahav-mizrahi/)
 
   
 
