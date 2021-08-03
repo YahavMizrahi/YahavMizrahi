@@ -11,7 +11,7 @@
   
 [![LinkedIn](https://img.shields.io/twitter/url?color=ffffff&label=%20Yahav%20Mizrahi&logo=linkedin&logoColor=ffffff&style=plastic&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyahav-mizrahi%2F)](https://www.linkedin.com/in/yahav-mizrahi/)
 
-![CodeWars](https://www.codewars.com/users/YM8/badges/micro)
+[![CodeWars](https://www.codewars.com/users/YM8/badges/micro)(https://www.codewars.com/users/YM8/)
 
   
 
